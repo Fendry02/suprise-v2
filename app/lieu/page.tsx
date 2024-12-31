@@ -9,7 +9,7 @@ export default function Lieu() {
   }
 
   const handleNavigation = () => {
-    router.push('/date')
+    router.push('/restaurant')
   }
 
   return (
