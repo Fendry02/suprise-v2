@@ -7,7 +7,7 @@ export default function Home() {
   const router = useRouter()
 
   const handleNavigation = () => {
-    router.push('/nature')
+    router.push('/qui')
   }
 
   return (
