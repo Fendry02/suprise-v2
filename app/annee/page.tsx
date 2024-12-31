@@ -45,7 +45,7 @@ export default function Annee() {
       >
         <div className="modal-box">
           <h3 className="font-bold text-lg text-error">Mauvaise réponse</h3>
-          <p className="py-4">Ce n'est pas la bonne année !</p>
+          <p className="py-4">Ce n&apos;est pas la bonne année !</p>
           <div className="modal-action">
             <form method="dialog">
               <button className="btn btn-outline btn-error">Fermer</button>
@@ -60,7 +60,9 @@ export default function Annee() {
       >
         <div className="modal-box">
           <h3 className="font-bold text-lg text-success">Bonne réponse</h3>
-          <p className="py-4">Super ! C'est la bonne année, bonne mémoire !</p>
+          <p className="py-4">
+            Super ! C&apos;est la bonne année, bonne mémoire !
+          </p>
           <div className="modal-action">
             <form method="dialog">
               <button

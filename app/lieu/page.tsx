@@ -26,10 +26,10 @@ export default function Lieu() {
           <p className="text-lg text-success">
             Cet évènement aura lieu le <strong>Jeudi 9 Janvier 2025</strong>
           </p>
-          <p className="py-4">Mais qu'est ce que ça peut bien être ?</p>
+          <p className="py-4">Mais qu&apos;est ce que ça peut bien être ?</p>
           <p>
-            Tu découvriras la réponse dans l'endroit le plus chaud probablement
-            de l'appartment
+            Tu découvriras la réponse dans l&apos;endroit le plus chaud
+            probablement de l&apos;appartment
           </p>
           <div className="modal-action">
             <form method="dialog">

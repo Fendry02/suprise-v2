@@ -13,7 +13,7 @@ export default function Restaurant() {
       <Banner />
       <div className="flex flex-col items-center justify-center max-sm:min-h-screen p-8 gap-8">
         <h1 className="text-2xl lg:text-4xl text-center">
-          Pour ton anniversaire, j'ai réservé une table au restaurant:
+          Pour ton anniversaire, j&apos;ai réservé une table au restaurant:
           <br />
           <strong>Takao Takano</strong>, un restaurant{' '}
           <strong>deux étoiles</strong> au guide Michelin
