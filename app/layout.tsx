@@ -12,8 +12,16 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en" data-theme="cupcake">
-      <body>{children}</body>
+    <html lang="en" data-theme="valentine">
+      <head>
+        <link
+          href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap"
+          rel="stylesheet"
+        />
+      </head>
+      <body>
+        <main className="min-h-screen">{children}</main>
+      </body>
     </html>
   )
 }
